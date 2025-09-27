@@ -1,6 +1,8 @@
 # Super-Video-Player
 Super Video Player is a video player for Resonite with some more features
 
+[Changelog](https://github.com/jackybuns/Super-Video-Player/wiki/Changelog)
+
 # Public Folders
 Just copy the links and paste them into Resonite. Then save the folders to your inventory to access them.
 

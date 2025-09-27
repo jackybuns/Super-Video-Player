@@ -8,15 +8,23 @@ Just copy the links and paste them into Resonite. Then save the folders to your 
    * `resrec:///U-Jackson/R-C2B81CE0AAA5A37FB73491560AE0A276AE55929229D1D83D2E8365E911441C61`
  * Super Video Player Folder
    * `resrec:///U-Jackson/R-837640E394447D50B2FEF08AB13055CB41B2D291E5039918F2C58AC5335CAFF3`
+     
 # Features
 
  * Video URL input
  * Local volume control
  * Global mute support
+ * UI locking (local, hides UI)
  * Subtitle support (multiple languages, locally selectable)
  * Stereo 3D playback support
  * Local audio track selection
  * Loading indicator (shows how many people are still loading)
+   * Loading user list (click the indicator)
+ * Audio Boost (local)
+   * Adds more audio sources to boost the volume
+ * Mini video player
+   * Can be dropped in receivers to link to other systems
+   * Does not support 3D or subtitles
 
 # Settings
 
@@ -32,6 +40,7 @@ Just copy the links and paste them into Resonite. Then save the folders to your 
 * Global Mute
 	* Mutes the player for everyone
 	* Useful when you put the player into another audio solution
+   
 ## Video
 * Steam
 	* Sets the player to streaming mode
